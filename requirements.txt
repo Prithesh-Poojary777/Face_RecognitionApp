@@ -8,3 +8,4 @@ streamlit-webrtc
 av
 fpdf2
 Pillow
+onnxruntime
