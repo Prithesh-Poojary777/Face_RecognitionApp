@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+scikit-learn
+insightface
+streamlit-webrtc
+av
+fpdf2
+Pillow
