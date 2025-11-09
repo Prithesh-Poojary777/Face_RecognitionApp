@@ -90,7 +90,7 @@ def recognize_face(frame, face_app, embeddings, labels_df):
 
 # --- Streamlit UI ---
 st.set_page_config(page_title="Face Recognition", layout="wide")
-st.title("👁️ Face Recognition System")
+st.title("👁️ Live Detail Extraction")
 
 st.sidebar.title("Options")
 recognition_method = st.sidebar.radio("Choose Recognition Method", ('Upload Image', 'Live Camera Stream'))
